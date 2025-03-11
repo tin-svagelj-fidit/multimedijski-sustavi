@@ -1,30 +1,30 @@
 @font-face {
   font-family: "Anta";
-  src: url("/MMS_Infty/fonts/Anta-Regular.woff2") format("woff2"), url("/MMS_Infty/fonts/Anta-Regular.woff") format("woff");
+  src: url("/multimedijski-sustavi/fonts/Anta-Regular.woff2") format("woff2"), url("/multimedijski-sustavi/fonts/Anta-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/MMS_Infty/fonts/Lato-Regular.woff2") format("woff2"), url("/MMS_Infty/fonts/Lato-Regular.woff") format("woff");
+  src: url("/multimedijski-sustavi/fonts/Lato-Regular.woff2") format("woff2"), url("/multimedijski-sustavi/fonts/Lato-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/MMS_Infty/fonts/Lato-Bold.woff2") format("woff2"), url("/MMS_Infty/fonts/Lato-Bold.woff") format("woff");
+  src: url("/multimedijski-sustavi/fonts/Lato-Bold.woff2") format("woff2"), url("/multimedijski-sustavi/fonts/Lato-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/MMS_Infty/fonts/Lato-Italic.woff2") format("woff2"), url("/MMS_Infty/fonts/Lato-Italic.woff") format("woff");
+  src: url("/multimedijski-sustavi/fonts/Lato-Italic.woff2") format("woff2"), url("/multimedijski-sustavi/fonts/Lato-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: "Lato";
-  src: url("/MMS_Infty/fonts/Lato-BoldItalic.woff2") format("woff2"), url("/MMS_Infty/fonts/Lato-BoldItalic.woff") format("woff");
+  src: url("/multimedijski-sustavi/fonts/Lato-BoldItalic.woff2") format("woff2"), url("/multimedijski-sustavi/fonts/Lato-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
 }
