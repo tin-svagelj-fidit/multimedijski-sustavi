@@ -17,7 +17,9 @@ async function run() {
     }
     
     function loadModule(name) {
-        var p = CSS.paintWorklet.addModule(`/MMS_Infty/lib/${name}.js`);
+        var p = CSS.paintWorklet.addModule(
+          `/multimedijski-sustavi/lib/${name}.js`
+        );
         if (p) {
             p
             .then(() => console.info(`Houdini '${name}' registered.`))
